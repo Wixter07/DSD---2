@@ -1,0 +1,97 @@
+$date
+	Tue Aug  6 15:32:20 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module lab3C_tb $end
+$var wire 1 ! co $end
+$var wire 1 " s3 $end
+$var wire 1 # s2 $end
+$var wire 1 $ s1 $end
+$var wire 1 % s0 $end
+$var wire 1 & co2 $end
+$var wire 1 ' co1 $end
+$var wire 1 ( co0 $end
+$var reg 1 ) a0 $end
+$var reg 1 * a1 $end
+$var reg 1 + a2 $end
+$var reg 1 , a3 $end
+$var reg 1 - b0 $end
+$var reg 1 . b1 $end
+$var reg 1 / b2 $end
+$var reg 1 0 b3 $end
+$var reg 1 1 ci $end
+$scope module ab $end
+$var wire 1 ) a0 $end
+$var wire 1 * a1 $end
+$var wire 1 + a2 $end
+$var wire 1 , a3 $end
+$var wire 1 - b0 $end
+$var wire 1 . b1 $end
+$var wire 1 / b2 $end
+$var wire 1 0 b3 $end
+$var wire 1 1 ci $end
+$var wire 1 ! co $end
+$var wire 1 ( co0 $end
+$var wire 1 ' co1 $end
+$var wire 1 & co2 $end
+$var wire 1 2 co3 $end
+$var wire 1 % s0 $end
+$var wire 1 $ s1 $end
+$var wire 1 # s2 $end
+$var wire 1 " s3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+12
+01
+10
+0/
+1.
+1-
+1,
+1+
+0*
+1)
+1(
+1'
+1&
+0%
+0$
+0#
+1"
+z!
+$end
+#30
+02
+0&
+1#
+0'
+1$
+0(
+1"
+1%
+00
+1/
+0+
+0)
+#60
+12
+0"
+0$
+0%
+10
+0/
+0.
+0-
+1+
+#90
+1%
+1-
+#120
